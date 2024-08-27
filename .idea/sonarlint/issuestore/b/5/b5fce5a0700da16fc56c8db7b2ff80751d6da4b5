@@ -1,0 +1,12 @@
+
+V
+java:S1874,"4Remove this use of "saveOrUpdate"; it is deprecated.(ûÐ Æúÿÿÿÿ8˜¨È¯Œ2
+V
+java:S1874-"4Remove this use of "saveOrUpdate"; it is deprecated.(µÍ¶°ûÿÿÿÿ8›¨È¯Œ2
+]	java:S125."<This block of commented-out lines of code should be removed.(­§­‹øÿÿÿÿ8ô€˜›™2
+l
+java:S1128"ORemove this unused import 'alba.hibernate_starter.converter.BirthdayConverter'.(àª·Ò8©Ï˜›™2
+ƒ
+java:S1128"aRemove this unused import 'org.hibernate.boot.model.naming.CamelCaseToUnderscoresNamingStrategy'.(÷™±Ðýÿÿÿÿ8©Ï˜›™2
+Y
+java:S1128"<Remove this unused import 'org.hibernate.cfg.Configuration'.(ö¬ä8©Ï˜›™2
